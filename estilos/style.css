@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color:rgba(147, 146, 146, 0.963) ;
+    background-color:rgba(27, 1, 70, 0.87) ;
 
 }
 
@@ -18,7 +18,7 @@ main {
 
 h1 {
     font-size: 1.5em;
-    color: bisque;
+    color: rgb(7, 4, 1);
 }
 
 img.lado {
@@ -28,7 +28,7 @@ img.lado {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: brown;
+    color: rgb(196, 0, 0);
 }
 
 a:hover {
