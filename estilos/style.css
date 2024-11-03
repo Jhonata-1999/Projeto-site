@@ -4,14 +4,35 @@
 }
 
 body {
-    background-color:rgb(148, 2, 2) ;
+    background-color:rgba(147, 146, 146, 0.963) ;
 
 }
 
 main {
-    background-color: aqua;
+    background-color: rgb(251, 251, 251);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.414);
+}
+
+h1 {
+    font-size: 1.5em;
+    color: bisque;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: brown;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(47, 47, 246);
+
 }
